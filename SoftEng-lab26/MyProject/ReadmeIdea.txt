@@ -1,0 +1,1 @@
+Idea of this project was to create a SRS document about Library system
