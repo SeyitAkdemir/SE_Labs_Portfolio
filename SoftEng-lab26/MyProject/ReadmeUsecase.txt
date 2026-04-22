@@ -1,0 +1,1 @@
+This Usecase diagram shows the functional requirements and interactions within the Library System.It defines how different types of users interact with various system functions to perform specific tasks.
