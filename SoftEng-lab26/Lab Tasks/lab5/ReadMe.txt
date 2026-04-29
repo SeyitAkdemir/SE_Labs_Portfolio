@@ -1,1 +1,1 @@
-This is a bowling score calculation engine developed following the Test-Driven Development (TDD) principles and the Ping-Pong pair programming method
+This is a bowling score calculation engine developed by following the Test-Driven Development principles and the Ping-Pong pair programming method.
